@@ -1,3 +1,10 @@
+/**
+ * Name: Nicholas Dhannie
+ * Date: 1-7-2025
+ * Class: CEN4802C
+ * Assignment 1 - Learning about Version Control
+ */
+
 public class Fibonacci {
 
     /**
